@@ -12,7 +12,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\DeliveryManagement.Application\DeliveryManagement.Application.csproj" />
-		<ProjectReference Include="..\DeliveryManagement.Infrastructure\DeliveryManagement.Infrastructure.csproj" />
+	  <ProjectReference Include="..\DeliveryManagement.Application\DeliveryManagement.Application.csproj" />
+	  <ProjectReference Include="..\DeliveryManagement.Infrastructure\DeliveryManagement.Infrastructure.csproj" />
 	</ItemGroup>
 </Project>
